@@ -1,0 +1,36 @@
+.wrapper{
+	width:1000px;
+	margin: 0 auto;
+}
+
+.react-stickynote{
+	width: 200px;
+	min-height: 200px;
+	background-color: #FAEF05;
+	float:left;
+	margin:10px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	word-wrap: break-word; 	 
+}
+
+.btn-info{
+    margin: 50px 0px 10px 20px;
+}
+
+.btn-success{
+	margin-top:10px;
+	margin-left: 25px;
+}
+.btn-danger{
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
